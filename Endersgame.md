@@ -1,10 +1,6 @@
-Fifty years ago,
-an alien force known
-as the Formics attacked Earth.
-Tens of millions died.
-It was only through the sacrifice
-of our greatest commander
-that we avoided total annihilation.
+Fifty years ago,an alien force known as the Formics attacked Earth. Tens of millions died.
+
+It was only through the sacrifice of our greatest commander that we avoided total annihilation.
 We've been preparing for them
 to come back ever since.
 The International Fleet decided
