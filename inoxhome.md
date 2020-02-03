@@ -1,6 +1,8 @@
 ### inox git home list  since 2019년 10월경?
-  └ https://inogift.github.io/  inog74@gmail.com
+  └ https://inogift.github.io/  inog74@gmail.com 
+  
   └ http://inoxgit.github.io/ inog@live.co.kr
+  
   └ http://inoxgithub.github.io/  inog@live.co.kr
 
 
